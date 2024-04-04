@@ -17,6 +17,8 @@ The key part of LLMSy is to understand the problem and extract sub-problems that
 - [Formal Specifications from Natural Language](https://arxiv.org/pdf/2206.01962v2.pdf)
 - [Baldur: Whole-Proof Generation and Repair with Large Language Models](https://arxiv.org/pdf/2303.04910.pdf)
 - [Don't Trust: Verify--Grounding LLM Quantitative Reasoning with Autoformalization](https://arxiv.org/pdf/2403.18120.pdf)
+- [ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics](https://arxiv.org/pdf/2302.12433.pdf)
+- [Multilingual Mathematical Autoformalization](https://arxiv.org/pdf/2311.03755.pdf)
 
 More related resources are in [Tutorial on Machine Learning for Theorem Proving @ NeurIPS 2023](https://machine-learning-for-theorem-proving.github.io/).
 
