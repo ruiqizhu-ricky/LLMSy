@@ -20,6 +20,7 @@ The key part of LLMSy is to understand the problem and extract sub-problems that
 - [ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics](https://arxiv.org/pdf/2302.12433.pdf)
 - [Multilingual Mathematical Autoformalization](https://arxiv.org/pdf/2311.03755.pdf)
 
-More related resources are in [Tutorial on Machine Learning for Theorem Proving @ NeurIPS 2023](https://machine-learning-for-theorem-proving.github.io/).
+The above papers focus on a particular domain: converting informal math into formal math, and thus proving theorems automatically. More related resources are in [Tutorial on Machine Learning for Theorem Proving @ NeurIPS 2023](https://machine-learning-for-theorem-proving.github.io/). A natural generalisation of formalise math/proofs is to formalise scientific theories apart from abstract math, but also organic chemistry, genetics, behavoural modelling, etc. Math and proofs can be Represented by math formulas or theorem proving language, such as [Lean](https://lean-lang.org/), [Coq](https://coq.inria.fr/), and [Isabelle](https://isabelle.in.tum.de/). SImilarly, scientific theories can be represented by modelling languages ([PDDL](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language) for planning) or even general-purpose programming languages (Python or Javascript). The studies on how to do this is called [program synthesis](https://www.neurosymbolic.org/methods.html), or more fashinably, [(AI) code generation](https://github.blog/2024-02-22-how-ai-code-generation-works/).
+
 
 [Automating the process of generating scientific theories from data](https://www.neurosymbolic.org/index.html)
