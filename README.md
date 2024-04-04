@@ -10,10 +10,14 @@ Today, the state-of-the-art neural engines are Large Language Models (LLMs), or 
 
 
 ## Recent resources
-The key part of LLMSy is to understand the problem and extract sub-problems that can be solved by symbolic tools. In science, this process sometimes is called [formalisation](https://en.wikipedia.org/wiki/Scientific_formalism), or more specifically, [logic translatioin](https://en.wikipedia.org/wiki/Logic_translation) which translate a problem from natural language (as well as image or other information) into formal language, that is, logic and math. The branch of AI research targetting on this process is auto-formalisation.
+The key part of LLMSy is to understand the problem and extract sub-problems that can be solved by symbolic tools. In science, this process sometimes is called [formalisation](https://en.wikipedia.org/wiki/Scientific_formalism), or more specifically, [logic translatioin](https://en.wikipedia.org/wiki/Logic_translation) which translate a problem from natural language (as well as image or other information) into formal language, that is, logic and math. The branch of AI research targetting on this process is auto-formalisation. Here are some selected papers on this topic: 
+- [A Promising Path Towards Autoformalization and General Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-030-53518-6_1)
+- [Autoformalization with Large Language Models](https://arxiv.org/pdf/2205.12615.pdf)
+- [Draft, Sketch, and Prove](https://openreview.net/pdf?id=SMa9EAovKMC)
+- [Formal Specifications from Natural Language](https://arxiv.org/pdf/2206.01962v2.pdf)
+- [Baldur: Whole-Proof Generation and Repair with Large Language Models](https://arxiv.org/pdf/2303.04910.pdf)
+- [Don't Trust: Verify--Grounding LLM Quantitative Reasoning with Autoformalization](https://arxiv.org/pdf/2403.18120.pdf)
 
-- [Tutorial on Machine Learning for Theorem Proving @ NeurIPS 2023](https://machine-learning-for-theorem-proving.github.io/) is the latest 
-
-
+More related resources are in [Tutorial on Machine Learning for Theorem Proving @ NeurIPS 2023](https://machine-learning-for-theorem-proving.github.io/).
 
 [Automating the process of generating scientific theories from data](https://www.neurosymbolic.org/index.html)
